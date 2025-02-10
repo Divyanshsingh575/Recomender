@@ -37,7 +37,7 @@ st.sidebar.markdown("---")
 st.sidebar.subheader("Chat with our AI Bot 🤖")
 st.sidebar.markdown(
     '<iframe src="https://console.dialogflow.com/api-client/demo/embedded/a0c510cf-e130-4cfd-8447-6bacecaaeb56" '
-    'width="200" height="430"></iframe>',
+    'width="220" height="430"></iframe>',
     unsafe_allow_html=True
 )
 
